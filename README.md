@@ -20,10 +20,10 @@ When all the content for the core campaign have been re-designed, the ambition i
 If you would like to discuss anything regarding this campaign set, there are several ways to do this.
 
 ### Fantasy Flight Games (FFG) 
-Visit the official forum boards here: [LINK](https://community.fantasyflightgames.com/forum/222-x-wing/). 
+Visit HotAC-2nd-edition topic on the official forum boards [here](https://community.fantasyflightgames.com/topic/301683-heroes-of-the-aturi-cluster-second-edition/). 
 
 ### Board Game Geek (BGG) 
-Board Game Geek has a large community and is well suited for discussing these kind of projects. Visit it here: [LINK](https://boardgamegeek.com/boardgame/252328/star-wars-x-wing-second-edition/forums/69)
+Board Game Geek has a large community and is well suited for discussing these kind of projects. Visit HotAC-2nd-edition topic [here](https://boardgamegeek.com/article/33257853)
 
 ### GitHub
 If you want to report issues, suggest new features or comment on upcoming features and expansions, you can also do it directly here on GitHub.
