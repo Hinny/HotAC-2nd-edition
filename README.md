@@ -60,6 +60,9 @@ TBA
 
 ## Links
 [FFG X-wing homepage](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)
+
 [BGG X-wing second edition](https://boardgamegeek.com/boardgame/252328/star-wars-x-wing-second-edition)
+
 [X-wing 2nd Ed Strange Eons plug-in](https://github.com/Hinny/strange-eons-xwing2)
+
 [X-wing symbols](https://github.com/geordanr/xwing-miniatures-font)
