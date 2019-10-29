@@ -26,8 +26,8 @@ If you want to report issues, suggest new features or comment on upcoming featur
 ### Facebook
 If you prefer Facebook before traditional forums, there is a dedicated group for all kinds of expansions to the original version of Heroes of the Aturi Cluster (this project would hopefully qualifies as that). You can find it here: [LINK](https://m.facebook.com/groups/872507722883025/)
 
-## How to Download
-TBA
+## Download
+[Current Latest Version](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.1/HotAC-2nd-edition-v0-1.zip)
 
 ## Playtesters
 [Mission Play-test Feedback](https://docs.google.com/forms/d/e/1FAIpQLSePuZTdhoR8Q7VQG8TrrUY5GfQsANXMGHMXwzZZmFwSdju6rQ/viewform)
