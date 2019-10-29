@@ -5,7 +5,10 @@ This is an attempt to convert the awesome Heroes of the Aturi Cluster cooperativ
 
 There was care taken to leave the core experience and spirit of the original campaign intact, but a lot of small and large changes have been made throughout the campaign set to better suit X-wing second edition. This includes reducing any special cases used in this campaign to hopefully simplify gameplay and/or enrich the game experience. 
 
-All components have gone through extensive redesign (with the exception of graphic design of obstacles, station modules and other play area features).
+All components have gone through extensive redesign (with the exception of graphic design of obstacles, station modules and other play area features, which are copied unmodified from the original edition by Josh Derksen).
+
+<img src="/images/AutomationCards.png" alt="Automation Cards" width="400"/> <img src="/images/ImperialPilotCards.png" alt="Imperial Pilot Cards" width="400"/> <img src="/images/PlayAreaFeatures.png" alt="Play Area Features" width="400"/> <img src="/images/PointList.png" alt="Point List" width="400"/> <img src="/images/RebelPilotSheets.png" alt="Rebel Pilot Sheets" width="500"/> <img src="/images/RebelShipCards.png" alt="Rebel Ship Cards" width="300"/>
+
 
 ## Community and Forums
 The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small expansions, such as mission story arcs and enemy ship expansions as well as completely new campaign settings.
