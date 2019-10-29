@@ -7,6 +7,13 @@ There was care taken to leave the core experience and spirit of the original cam
 
 All components have gone through extensive redesign (with the exception of graphic design of obstacles, station modules and other play area features).
 
+[[/images/AutomationCards.png|Automation Cards]]
+[[/images/ImperialPilotCards.png|Imperial Pilot Cards]]
+[[/images/PlayAreaFeatures.png|Play Area Features]]
+[[/images/PointList.png|Point List]]
+[[/images/RebelPilotSheets.png|Rebel Pilot Sheets]]
+[[/images/RebelShipCards.png|Rebel Ship Cards]]
+
 ## Community and Forums
 The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small expansions, such as mission story arcs and enemy ship expansions as well as completely new campaign settings.
 
