@@ -11,7 +11,9 @@ All components have gone through extensive redesign (with the exception of graph
 
 ## Download
 [Core Campaign v0.2](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.2/Core-Campaign-v0.2.zip)
-[Add-on Experience Tree v0.1](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.2/Experience-Tree-v0.1.zip)
+
+### Add-ons
+[Experience Tree v0.1](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.2/Experience-Tree-v0.1.zip)
 
 ## Community and Forums
 The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small add-ons, such as mission story arcs and enemy ship add-ons as well as completely new campaign settings.
