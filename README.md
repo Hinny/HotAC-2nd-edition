@@ -13,9 +13,9 @@ All components have gone through extensive redesign (with the exception of graph
 [Latest Version](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.1/HotAC-2nd-edition-v0-1.zip)
 
 ## Community and Forums
-The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small expansions, such as mission story arcs and enemy ship expansions as well as completely new campaign settings.
+The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small add-ons, such as mission story arcs and enemy ship add-ons as well as completely new campaign settings.
 
-When all the content for the core campaign have been re-designed, the ambition is to create several easy-to-use resources for content-creators and modders to use. This is planned to be done mainly by creating resources for the X-wing 2nd Ed Strange Eons plug-in ([LINK](https://github.com/Hinny/strange-eons-xwing2)). But feel free to start designing your own expansion right away. A more comprehensive document about how to contribute to this project is planned but not yet available. 
+When all the content for the core campaign have been re-designed, the ambition is to create several easy-to-use resources for content-creators and modders to use. This is planned to be done mainly by creating resources for the X-wing 2nd Ed Strange Eons plug-in ([LINK](https://github.com/Hinny/strange-eons-xwing2)). But feel free to start designing your own add-on right away. A more comprehensive document about how to contribute to this project is planned but not yet available. 
 
 If you would like to discuss anything regarding this campaign set, there are several ways to do this.
 
@@ -26,7 +26,7 @@ Visit HotAC-2nd-edition topic on the official forum boards [here](https://commun
 Board Game Geek has a large community and is well suited for discussing these kind of projects. Visit HotAC-2nd-edition topic [here](https://boardgamegeek.com/article/33257853).
 
 ### GitHub
-If you want to report issues, suggest new features or comment on upcoming features and expansions, you can also do it directly here on GitHub.
+If you want to report issues, suggest new features or comment on upcoming features and add-ons, you can also do it directly here on GitHub.
 
 ### Facebook
 If you prefer Facebook before traditional forums, there is a dedicated group for all kinds of expansions to the original version of Heroes of the Aturi Cluster (this project would hopefully qualifies as that). You can find it [here](https://m.facebook.com/groups/872507722883025/).
