@@ -10,7 +10,8 @@ All components have gone through extensive redesign (with the exception of graph
 <img src="/images/AutomationCards.png" alt="Automation Cards" width="400"/> <img src="/images/ImperialPilotCards.png" alt="Imperial Pilot Cards" width="400"/> <img src="/images/PlayAreaFeatures.png" alt="Play Area Features" width="400"/> <img src="/images/PointList.png" alt="Point List" width="400"/> <img src="/images/RebelPilotSheets.png" alt="Rebel Pilot Sheets" width="500"/> <img src="/images/RebelShipCards.png" alt="Rebel Ship Cards" width="300"/>
 
 ## Download
-[Latest Version](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.1/HotAC-2nd-edition-v0-1.zip)
+[Core Campaign v0.2](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.2/Core-Campaign-v0.2.zip)
+[Add-on Experience Tree v0.1](https://github.com/Hinny/HotAC-2nd-edition/releases/download/v0.2/Experience-Tree-v0.1.zip)
 
 ## Community and Forums
 The hope is that the core campaign set and this GitHub repository can be solid foundations to a thriving mod community where there are a lot of large and small add-ons, such as mission story arcs and enemy ship add-ons as well as completely new campaign settings.
