@@ -32,7 +32,7 @@ Board Game Geek has a large community and is well suited for discussing these ki
 If you want to report issues, suggest new features or comment on upcoming features and add-ons, you can also do it directly here on GitHub.
 
 ### Facebook
-If you prefer Facebook before traditional forums, there is a dedicated group for all kinds of expansions to the original version of Heroes of the Aturi Cluster (this project would hopefully qualifies as that). You can find it [here](https://m.facebook.com/groups/872507722883025/).
+If you prefer Facebook before traditional forums, there is a dedicated group for all kinds of expansions to the original version of Heroes of the Aturi Cluster (this project would hopefully qualifies as that). You can find it [here](https://facebook.com/groups/872507722883025/).
 
 ## Playtesters
 [Mission Play-test Feedback](https://docs.google.com/forms/d/e/1FAIpQLSePuZTdhoR8Q7VQG8TrrUY5GfQsANXMGHMXwzZZmFwSdju6rQ/viewform)
