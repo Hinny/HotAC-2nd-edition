@@ -61,7 +61,7 @@ This means:
 Releasing the product with content missing was done so that the campaign set can reach playtesters as fast as possible, while work on additional content is still proceeding. You can view the current state as a Minimal Viable Product.
 
 ## Feature Roadmap
-TBA
+[Backlog](https://github.com/Hinny/HotAC-2nd-edition/projects/1?fullscreen=true)
 
 ## Links
 [FFG X-wing homepage](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/)
